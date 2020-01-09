@@ -1,5 +1,5 @@
 # list-of-participants
 
-Example layout - list of members. For web-site https://krypton.infobezopasnost.ru/
+Example layout - list of members.
 
 ![Screenshot](screenshot.jpg)
