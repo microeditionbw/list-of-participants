@@ -1,4 +1,4 @@
-# list of participants
+# List of participants
 
 Example layout - list of members.
 
